@@ -1,0 +1,29 @@
+.main-header{
+    background-color:white;
+    font-family: 'Segoe UI';
+}
+.body{
+    background-color:blanchedalmond;
+}
+.nav-item{
+    font-size: larger;
+    padding-left: 20px;
+    
+}
+
+.top-heading{
+    margin-left: 250px;
+}
+.navbar-nav{
+    margin-right: 30px;;
+}
+
+
+.mapform{
+    
+    outline-style:double;
+    
+    padding: 40px;
+    
+}
+
